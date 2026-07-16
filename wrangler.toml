@@ -1,8 +1,10 @@
 name = "mahjong-play"
 compatibility_date = "2025-07-16"
+main = "src/index.js"
 
 [assets]
 directory = "."
+binding = "ASSETS"
 
 [[routes]]
 pattern = "infennonlabs.com/mahjong*"

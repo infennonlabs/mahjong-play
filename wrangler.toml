@@ -1,0 +1,9 @@
+name = "mahjong-play"
+compatibility_date = "2025-07-16"
+
+[assets]
+directory = "."
+
+[[routes]]
+pattern = "infennonlabs.com/mahjong*"
+zone_name = "infennonlabs.com"
